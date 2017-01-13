@@ -4,7 +4,7 @@
 /*===============================*/
 
 // If you remove this, the theme will break.
-require_once( get_stylesheet_directory() . "/includes/custom/theme-code.php" );
+require_once( get_stylesheet_directory() . "/includes/theme-code.php" );
 
 /*=======================*/
 /*== Setup Headless WP ==*/
