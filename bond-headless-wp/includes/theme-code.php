@@ -14,6 +14,10 @@ function on_activation_setup() {
 	if (get_option('default_ping_status') !== false) {
 		update_option('default_ping_status', 0);
 	}
+  // Disable emoticons conversion.
+  if (get_option('use_smilies') !== false) {
+    update_option('use_smilies', 0);
+  }
 }
 
 /*====================================*/
