@@ -1,5 +1,15 @@
 {
-    "name": "bond-agency/bond-headless-wp",
+    "name": "bond-headless-wp",
     "type": "wordpress-theme",
-    "version": "v1.1.1"
+    "authors": [
+      {
+        "email": "dev@bond.fi",
+        "name": "Bond",
+        "homepage": "https://bond-agency.com"
+      }
+    ],
+    "version": "v1.1.2",
+    "description": "A theme meant to help with running WordPress headless.",
+    "homepage": "https://github.com/bond-agency/bond-headless-wp",
+    "license": "MIT"
 }
