@@ -1,2 +1,2 @@
 <?php
-wp_die();
+die;
